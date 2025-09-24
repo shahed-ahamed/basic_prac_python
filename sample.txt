@@ -1,0 +1,6 @@
+I am learning Python.
+I am enjoying it.
+I am loving it.
+I am practicing it.
+I am going to be a good programmer.
+I am going to be a good developer.
